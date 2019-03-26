@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Create List
+- [ ] Eidt 04-lists.md
+- [ ] Commit changes
