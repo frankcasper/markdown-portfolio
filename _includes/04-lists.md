@@ -1,3 +1,0 @@
-- [ ] Create List
-- [ ] Eidt 04-lists.md
-- [ ] Commit changes
